@@ -1,4 +1,4 @@
 # gitClass
-Demo Git &amp; O3RGENGEOGERGNEROIN
+## gitClass with demo git & github
 
-### Este es un repo demo de git & github
+### Este es un repo 
